@@ -1,0 +1,6 @@
+module Pods_movistarAr_movistarArTests {
+  umbrella header "Pods-movistarAr-movistarArTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

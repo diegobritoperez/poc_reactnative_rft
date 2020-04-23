@@ -1,0 +1,4 @@
+#Wed Apr 22 22:56:24 CLT 2020
+base.0=/Users/jmezaegu/Desktop/reactNative/pocMovi/movistarAr/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
